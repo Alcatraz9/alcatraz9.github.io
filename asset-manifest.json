@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58256005.chunk.css",
+    "main.js": "/static/js/main.1f832960.chunk.js",
+    "main.js.map": "/static/js/main.1f832960.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7fe06098.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7fe06098.js.map",
+    "static/js/2.35338e70.chunk.js": "/static/js/2.35338e70.chunk.js",
+    "static/js/2.35338e70.chunk.js.map": "/static/js/2.35338e70.chunk.js.map",
+    "static/css/3.25727338.chunk.css": "/static/css/3.25727338.chunk.css",
+    "static/js/3.5de6702c.chunk.js": "/static/js/3.5de6702c.chunk.js",
+    "static/js/3.5de6702c.chunk.js.map": "/static/js/3.5de6702c.chunk.js.map",
+    "static/css/4.a8329f31.chunk.css": "/static/css/4.a8329f31.chunk.css",
+    "static/js/4.68a9a597.chunk.js": "/static/js/4.68a9a597.chunk.js",
+    "static/js/4.68a9a597.chunk.js.map": "/static/js/4.68a9a597.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e7911ae778ed11a40604411dc3c94086.js": "/precache-manifest.e7911ae778ed11a40604411dc3c94086.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.25727338.chunk.css.map": "/static/css/3.25727338.chunk.css.map",
+    "static/css/4.a8329f31.chunk.css.map": "/static/css/4.a8329f31.chunk.css.map",
+    "static/css/main.58256005.chunk.css.map": "/static/css/main.58256005.chunk.css.map",
+    "static/js/2.35338e70.chunk.js.LICENSE.txt": "/static/js/2.35338e70.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/DAVLogo.png": "/static/media/DAVLogo.34ebdaad.png",
+    "static/media/FACHIONELogo.png": "/static/media/FACHIONELogo.d103a32f.png",
+    "static/media/GETREKTLogo.png": "/static/media/GETREKTLogo.b9f8de61.png",
+    "static/media/NITRLogo.png": "/static/media/NITRLogo.12297704.png",
+    "static/media/NTSELogo.png": "/static/media/NTSELogo.9eae5980.png",
+    "static/media/SIEVELogo.png": "/static/media/SIEVELogo.cfea21f2.png",
+    "static/media/TSLogo.png": "/static/media/TSLogo.d700b3ee.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fe06098.js",
+    "static/js/2.35338e70.chunk.js",
+    "static/css/main.58256005.chunk.css",
+    "static/js/main.1f832960.chunk.js"
+  ]
+}
